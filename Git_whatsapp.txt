@@ -11,3 +11,7 @@ Whatsapp development:
 5. send him/her attachments(Images, audio, vedio)
 
 6. Hiding the last seen
+
+7. Adding Audio Feature
+
+8. Adding Vedio feature.
