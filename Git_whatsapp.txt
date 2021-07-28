@@ -1,0 +1,11 @@
+Whatsapp development:
+
+1. create an account
+
+2. Add the members from your contact for new chat
+
+3. send him/her message "Hiiii"
+
+4. last seen status
+
+5. send him/her attachments(Images, audio, vedio)
