@@ -9,3 +9,5 @@ Whatsapp development:
 4. last seen status
 
 5. send him/her attachments(Images, audio, vedio)
+
+6. Hiding the last seen
